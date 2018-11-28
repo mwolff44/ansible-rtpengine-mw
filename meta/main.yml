@@ -1,0 +1,22 @@
+---
+
+allow_duplicates: false
+
+galaxy_info:
+  author: Mathias WOLFF
+  description: Ansible role for building RTPEngine from sources.
+  company: Celea Consulting
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.7
+  platforms:
+    - name: Debian
+      versions:
+        - stretch
+  galaxy_tags:
+    - system
+    - voip
+    - kamailio
+    - sip
+    - rtp
+
+dependencies: []
